@@ -100,7 +100,7 @@
     "eslint-plugin-storybook": "^0.6.15",
     "postcss": "^8.4.31",
     "quickjs-emscripten": "^0.11.0",
-    "storybook": "^8.6.1",
+    "storybook": "^8.6.15",
     "tailwindcss": "^3.4.1",
     "ts-node": "^10.9.1",
     "typescript": "^5.1.3",
